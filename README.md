@@ -28,4 +28,4 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRedEdge967%2FTo-Do-App)
 
 ---
-> ### If you used the To-Do-App and it was helpful, Don't forget to give a star 🌟 and fork to make your own To-Do-App.
+> ### If you used the To-Do-App and if it was helpful, Don't forget to give a star 🌟 and fork to make your own To-Do-App.
