@@ -1,4 +1,4 @@
-# To-Do-App
+# To-Do-App <img src="to-do.png" height="50" width="50">
 - A To-do list app made with JQuery.
 ---
 ![Capture48](https://user-images.githubusercontent.com/91379432/145707224-21a278d2-4f33-4aee-841b-163b4d89d06a.PNG)
