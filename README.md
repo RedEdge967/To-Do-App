@@ -29,3 +29,4 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
 
 ---
 > ### If you used the To-Do-App and if it was helpful, Don't forget to give a star 🌟 and fork to make your own To-Do-App.
+> ### Check out the [Docs](docs.md) to know how to use the To-Do-App
